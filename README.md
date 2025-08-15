@@ -67,8 +67,8 @@ Sigue estos pasos para configurar la demo de PassKey Auth
 
 1. **Crear Proyecto en Supabase**
 
-Ir a Supabase: https://www.supabase.com
-Crea una cuenta gratuita en Supabase
+- Ir a Supabase: https://www.supabase.com
+- Crea una cuenta gratuita en Supabase
 
 2. **Ejecutar Script SQL**
   
@@ -115,8 +115,8 @@ SUPABASE_SERVICE_ROLE_KEY=tu_service_role_key
 ```
 
 4. **Probar Configuración**
-Usar Panel de Diagnóstico
-Usa el panel de diagnóstico para verificar que todo funcione
+- Ingresa al Panel de Diagnóstico
+- Usa el panel de diagnóstico para verificar que todo funcione
 
 ### ¿No tienes Supabase?
 
